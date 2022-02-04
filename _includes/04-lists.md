@@ -1,5 +1,3 @@
-<ul>
-  <li> home 
-  <li> about
-  <li>contact
- </ul>
+* hai
+* hello
+* * its me
